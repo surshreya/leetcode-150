@@ -4,12 +4,16 @@ Implement `pow(x, n)`, which calculates `x` raised to the power n (i.e., `xn`).
 
 Given an array of points where `points[i] = [xi, yi]` represents a point on the **X-Y** plane, return the `maximum number of points that lie on the same straight line.`
 
+![plane1](https://github.com/surshreya/leetcode-150/assets/118065908/c936ba0b-f34f-4726-a765-83830a8bc6a4)
+
 **Example 1**
 
 ```bash
 Input: points = [[1,1],[2,2],[3,3]]
 Output: 3
 ```
+
+![plane2](https://github.com/surshreya/leetcode-150/assets/118065908/83a549aa-e331-429b-a446-0c721e0df509)
 
 **Example 2**
 
