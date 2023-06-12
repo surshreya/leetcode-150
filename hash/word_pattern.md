@@ -11,6 +11,20 @@ Input: pattern = "abba", s = "dog cat cat dog"
 Output: true
 ```
 
+**Example 2**
+
+```bash
+Input: pattern = "abba", s = "dog cat cat fish"
+Output: false
+```
+
+**Example 3**
+
+```bash
+Input: pattern = "aaaa", s = "dog cat cat dog"
+Output: false
+```
+
 ### Constraints
 
 - 1 <= pattern.length <= 300
